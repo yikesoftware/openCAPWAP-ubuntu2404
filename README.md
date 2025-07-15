@@ -28,3 +28,7 @@ Within the openCAPWAP folder, type:
 make clean
 make
 ```
+
+## Usage and more information
+
+Please read [INSTALL](./INSTALL).
